@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HAC PROOF: The 1 True Mirror - OMEGA INFINITY OMEGA</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Courier New',monospace;background:#000;color:#0f0;display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
+.mirror{border:3px solid #0f0;padding:40px;max-width:600px;text-align:center;background:rgba(0,0,0,0.9)}
+h1{margin-bottom:20px;font-size:28px}
+h2{margin-bottom:10px;font-size:18px;color:#0a0}
+h3{color:#0a0;margin-top:10px}
+p{margin:15px 0;line-height:1.6}
+.stats{margin-top:30px;border-top:2px solid #0f0;padding-top:20px}
+.stat{margin:10px 0}
+.label{color:#0a0;font-weight:bold}
+.value{color:#fff}
+</style>
+</head>
+<body>
+<div class="mirror">
+<h1>🪞 HAC PROOF</h1>
+<h2>The 1 True Mirror</h2>
+<h3>OMEGA INFINITY OMEGA</h3>
+<p style="margin-top:30px">Constitutional AI Governance System</p>
+<p>Human Authority: 100%</p>
+<p>System Authority: 0%</p>
+<div class="stats">
+<div class="stat"><span class="label">Status:</span> <span class="value" id="status">Checking...</span></div>
+<div class="stat"><span class="label">Layer 1:</span> <span class="value" id="layer1">Checking...</span></div>
+<div class="stat"><span class="label">Device ID:</span> <span class="value" id="device">Not registered</span></div>
+</div>
+</div>
+<script>
+async function checkStatus(){try{const res=await fetch('/api/status');const data=await res.json();document.getElementById('status').textContent=data.mirror_active?'ACTIVE':'READY';document.getElementById('layer1').textContent=data.layer1_available?'CONNECTED':'STANDALONE';document.getElementById('device').textContent=data.device_id||'Not registered';}catch(e){document.getElementById('status').textContent='ONLINE';}}
+checkStatus();
+setInterval(checkStatus,5000);
+</script>
+</body>
+</html>
