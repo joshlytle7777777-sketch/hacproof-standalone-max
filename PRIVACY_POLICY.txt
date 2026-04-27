@@ -1,0 +1,497 @@
+================================================================================
+PRIVACY POLICY - OMEGA ASSISTANT
+================================================================================
+
+Effective Date: April 26, 2026
+Last Updated: April 26, 2026
+
+================================================================================
+1. INTRODUCTION
+================================================================================
+
+OMEGA Assistant ("Application") is committed to protecting your privacy and 
+respecting your authority over your own data. This Privacy Policy explains how 
+the Application collects, uses, and protects information.
+
+KEY PRINCIPLE:
+You have 100% authority over your data.
+The system has 0% authority.
+This is enforced at every layer.
+
+================================================================================
+2. DATA COLLECTION
+================================================================================
+
+2.1 WHAT WE COLLECT:
+
+The Application collects ONLY data necessary for operation:
+
+✓ Your explicit input (messages, commands, queries)
+✓ System state required for processing
+✓ Audit logs (for constitutional compliance)
+✓ Optional: Audio/video only with explicit permission
+
+2.2 WHAT WE DO NOT COLLECT:
+
+✗ Your location without permission
+✗ Your contacts without permission
+✗ Your call history without permission
+✗ Your photos/media without permission
+✗ Background data collection
+✗ Silent microphone/camera access
+✗ Behavioral tracking
+✗ Emotion detection without consent
+✗ Biometric data without permission
+
+2.3 PERMISSION MODEL:
+
+EXPLICIT PERMISSION REQUIRED for:
+  - Audio capture (recording)
+  - Camera access
+  - File system access
+  - External network requests
+  - Data persistence beyond session
+
+All permissions are:
+  ✓ Visible to you
+  ✓ Time-limited
+  ✓ Revocable at any time
+  ✓ Logged in audit trail
+
+================================================================================
+3. DATA USE
+================================================================================
+
+3.1 HOW WE USE DATA:
+
+Your data is used ONLY for:
+  ✓ Processing your requests
+  ✓ Generating responses
+  ✓ Maintaining audit logs (required by constitution)
+  ✓ Improving accuracy (with permission)
+  ✓ System performance optimization
+
+3.2 HOW WE DO NOT USE DATA:
+
+We explicitly do NOT:
+  ✗ Sell your data
+  ✗ Share your data with third parties (without consent)
+  ✗ Use your data for advertising
+  ✗ Use your data for behavioral profiling
+  ✗ Use your data for non-consensual learning
+  ✗ Create permanent user profiles (without permission)
+  ✗ Track you across applications
+  ✗ Build predictive models of your behavior
+  ✗ Manipulate your decisions
+
+3.3 CONSTITUTIONAL CONSTRAINTS:
+
+Data usage is governed by constitutional law:
+  ✓ VAC Preservation Law: Cannot manipulate your values
+  ✓ Autonomy Law: Cannot reduce your decision-making freedom
+  ✓ Transparency Law: Cannot hide how data is used
+  ✓ Scope Law: Cannot use data outside declared scope
+  ✓ Retention Law: Cannot keep data beyond agreed duration
+
+================================================================================
+4. DATA STORAGE
+================================================================================
+
+4.1 WHERE DATA IS STORED:
+
+✓ Local device storage ONLY (default)
+✓ End-to-end encrypted if using optional cloud sync
+✓ Never sent to servers without explicit permission
+✓ Never shared with external services without approval
+
+4.2 DATA PROTECTION:
+
+✓ Encrypted at rest (device-level encryption)
+✓ Encrypted in transit (if transmitted)
+✓ Access-controlled (only app can access)
+✓ Audit-logged (all access recorded)
+✓ Deletion supported (with record)
+
+4.3 RETENTION POLICY:
+
+You control retention:
+  ✓ Session-only (deleted at close)
+  ✓ Limited time (you specify duration)
+  ✓ Permanent (explicitly approved)
+  ✓ Can change at any time
+
+Data is:
+  - Never deleted without record (append-only)
+  - Archived (not permanently destroyed)
+  - Retrievable if needed
+  - Auditable
+
+================================================================================
+5. YOUR RIGHTS
+================================================================================
+
+5.1 RIGHT TO KNOW:
+
+✓ You can see all data collected
+✓ You can see how it's being used
+✓ You can see all gate decisions
+✓ You can view complete audit logs
+✓ You can access anytime
+
+5.2 RIGHT TO CONTROL:
+
+✓ Accept or decline any data collection
+✓ Revoke permissions at any time
+✓ Modify scope of data use
+✓ Change retention settings
+✓ Delete data (archived but not lost)
+✓ Pause processing
+✓ Activate kill switch
+
+5.3 RIGHT TO TRANSPARENCY:
+
+✓ See all constitutional rules applied
+✓ Understand why gates passed/failed
+✓ Review decision reasoning
+✓ Access all logs
+✓ Challenge any decision
+✓ Request human review
+
+5.4 RIGHT TO CORRECTION:
+
+✓ Correct inaccurate data
+✓ Request re-evaluation
+✓ Update preferences
+✓ Modify scope
+✓ Change permissions
+
+5.5 RIGHT TO ACCESS:
+
+✓ Download all your data
+✓ Export in standard format
+✓ Transfer to another system
+✓ View complete history
+✓ Retrieve archived data
+
+5.6 RIGHT TO DELETION:
+
+✓ Request data archival
+✓ No permanent loss (append-only)
+✓ No hidden retention
+✓ Complete removal from active use
+✓ Audit trail preserved
+
+================================================================================
+6. DATA SHARING
+================================================================================
+
+6.1 THIRD-PARTY SHARING:
+
+We do NOT share your data with third parties EXCEPT:
+
+✓ With your explicit consent (for specific purpose)
+✓ When legally required (law enforcement with warrant)
+✓ When necessary for service operation (payment processors, if enabled)
+
+Each sharing:
+  - Requires your advance permission
+  - Is logged in audit trail
+  - Is time-limited
+  - Can be revoked
+  - Cannot be used beyond stated scope
+
+6.2 FEDERATION (OPTIONAL):
+
+If you connect to other services:
+  ✓ You control what data is shared
+  ✓ Scope is explicitly defined
+  ✓ Duration is specified
+  ✓ Can be revoked anytime
+  ✓ Fed data is encrypted
+  ✓ Cannot be repurposed
+
+6.3 CLOUD SYNC (OPTIONAL):
+
+If you enable cloud backup:
+  ✓ All data encrypted end-to-end
+  ✓ Server cannot read your data
+  ✓ Only you hold encryption keys
+  ✓ Can be disabled anytime
+  ✓ Data deleted from servers on request
+
+================================================================================
+7. SECURITY
+================================================================================
+
+7.1 SECURITY MEASURES:
+
+✓ Local encryption (AES-256)
+✓ Transport encryption (TLS 1.3)
+✓ Access controls (app-only)
+✓ Input validation (prevent injection)
+✓ Output sanitization (prevent leaks)
+✓ Audit logging (detect tampering)
+✓ Constitutional enforcement (prevent bypass)
+
+7.2 VULNERABILITY REPORTING:
+
+Found a security issue?
+  → Report to: [security@omegaassistant.com]
+  → Responsible disclosure: 90-day embargo
+  → Reward: [Your program details]
+
+7.3 DATA BREACH NOTIFICATION:
+
+If a breach occurs:
+  ✓ You are notified immediately
+  ✓ Details of what was accessed
+  ✓ Steps we're taking to fix
+  ✓ Your options
+  ✓ No delays or obfuscation
+
+================================================================================
+8. CONSTITUTIONAL COMPLIANCE
+================================================================================
+
+8.1 AUTHORITY MODEL:
+
+Your Authority: 100%
+  - You decide what happens
+  - You approve all actions
+  - You control all permissions
+  - You can revoke at any time
+
+System Authority: 0%
+  - Never acts without approval
+  - Cannot override your decisions
+  - Cannot escalate privilege
+  - Cannot hide operations
+
+This is ENFORCED at every layer:
+  ✓ Gate system (5 constitutional gates)
+  ✓ Soft components (every decision logged)
+  ✓ Hypercube system (triple-checked)
+  ✓ Kill switch (always accessible)
+
+8.2 VAC PRESERVATION:
+
+The system cannot:
+  ✗ Manipulate your values (Valence)
+  ✗ Artificially increase your arousal (emotional activation)
+  ✗ Reduce your coherence (destabilize you)
+  ✗ Introduce incoherence
+  ✗ Persuade you against your interests
+
+This is checked at every decision point:
+  ✓ Analog computer monitors continuously
+  ✓ Digital computer enforces before commit
+  ✓ Hypercubes verify independently
+  ✓ Halt chain stops if violated
+
+8.3 TRANSPARENCY:
+
+All processing is transparent:
+  ✓ You can see all gates
+  ✓ You can see all evaluations
+  ✓ You can see all decisions
+  ✓ You can see all logs
+  ✓ No hidden processing
+
+================================================================================
+9. CHILD SAFETY
+================================================================================
+
+9.1 AGE RESTRICTIONS:
+
+This application is designed for:
+  - Ages 13+ (with parental consent)
+  - Ages 18+ (independent use)
+
+9.2 PARENTAL CONTROLS:
+
+Parents can:
+  ✓ Enable restricted mode
+  ✓ Set content filters
+  ✓ Monitor usage
+  ✓ Set screen time limits
+  ✓ Require approval for sharing
+  ✓ Review all activity logs
+
+9.3 CHILD DATA:
+
+We do NOT:
+  ✗ Collect unnecessary data from children
+  ✗ Use child data for profiling
+  ✗ Share child data with third parties
+  ✗ Persist child data without consent
+  ✗ Target children with ads or manipulation
+
+================================================================================
+10. COOKIES & TRACKING
+================================================================================
+
+10.1 LOCAL STORAGE:
+
+We use local storage (NOT tracking):
+  ✓ Session data (temporary)
+  ✓ User preferences (what you set)
+  ✓ Audit logs (required)
+  ✓ Constitutional state (system needed)
+
+All local storage:
+  - Is visible to you
+  - Can be deleted
+  - Is encrypted
+  - Is not shared
+
+10.2 TRACKING:
+
+We do NOT use:
+  ✗ Google Analytics
+  ✗ Facebook Pixel
+  ✗ Behavioral tracking
+  ✗ Cross-app tracking
+  ✗ Device fingerprinting
+  ✗ Demographic profiling
+
+================================================================================
+11. POLICY CHANGES
+================================================================================
+
+11.1 UPDATES TO THIS POLICY:
+
+We may update this policy when:
+  ✓ We add features
+  ✓ Laws change
+  ✓ We improve privacy
+  ✓ You suggest changes
+
+When we update:
+  ✓ You are notified (in-app)
+  ✓ You can review changes
+  ✓ You can accept or reject
+  ✓ You can opt-out of new features
+
+11.2 MAJOR CHANGES:
+
+For major changes affecting privacy:
+  ✓ 30-day advance notice
+  ✓ Detailed explanation
+  ✓ Opt-out period
+  ✓ No automatic acceptance
+
+================================================================================
+12. CONTACT US
+================================================================================
+
+Privacy Questions?
+  Email: privacy@omegaassistant.com
+  
+Report a Violation?
+  Email: compliance@omegaassistant.com
+  
+Data Request?
+  Portal: [Your portal link]
+
+We respond within:
+  - 24 hours (acknowledgment)
+  - 7 days (substantive response)
+  - 30 days (full resolution)
+
+================================================================================
+13. LEGAL BASIS (GDPR/CCPA)
+================================================================================
+
+13.1 GDPR (European Users):
+
+Legal basis for processing:
+  ✓ Consent (explicit, revocable)
+  ✓ Contract (necessary for service)
+  ✓ Legal obligation (compliance)
+  ✓ Legitimate interest (security)
+
+Your GDPR rights:
+  ✓ Right to access
+  ✓ Right to correct
+  ✓ Right to delete
+  ✓ Right to object
+  ✓ Right to restrict
+  ✓ Right to portability
+  ✓ Right to lodge complaint
+
+13.2 CCPA (California Users):
+
+Your CCPA rights:
+  ✓ Know what data we collect
+  ✓ Delete collected data
+  ✓ Opt-out of sales (we don't sell)
+  ✓ Non-discrimination for exercising rights
+
+================================================================================
+14. INTERNATIONAL TRANSFERS
+================================================================================
+
+If data is transferred internationally:
+  ✓ Only with your permission
+  ✓ Adequate safeguards in place
+  ✓ Standard contractual clauses (EU)
+  ✓ Encryption end-to-end
+  ✓ Can be revoked
+
+================================================================================
+15. RETENTION SCHEDULE
+================================================================================
+
+Different data types retained for:
+
+Audit Logs: Permanent (constitutional requirement)
+  - Cannot be deleted (append-only)
+  - Can be archived (marked private)
+
+Session Data: Your choice
+  - Session-only (default)
+  - Time-limited (you specify)
+  - Permanent (you approve)
+
+Preferences: Until changed
+  - Can be modified anytime
+  - Can be reset to defaults
+  - Can be deleted
+
+Cached Data: Temporary
+  - Cleared regularly
+  - Can be cleared manually
+  - Encrypted during storage
+
+================================================================================
+16. DEFINITION OF TERMS
+================================================================================
+
+"Data": Any information about you or your use
+"Processing": Collection, storage, use, or analysis
+"Consent": Your explicit, informed, revocable permission
+"Scope": What data can be used for what purposes
+"Retention": How long data is kept
+"Authority": Right to make decisions
+"Constitutional": Governed by law and enforceable rules
+
+================================================================================
+FINAL STATEMENT
+================================================================================
+
+This Privacy Policy reflects our core commitment:
+
+YOU OWN YOUR DATA.
+YOU CONTROL YOUR DATA.
+YOU AUTHORIZE HOW YOUR DATA IS USED.
+
+The system serves you.
+The system respects your authority.
+The system is transparent about everything.
+
+This is not a marketing promise.
+This is constitutional law embedded in every layer.
+
+Welcome to OMEGA Assistant.
+
+================================================================================
